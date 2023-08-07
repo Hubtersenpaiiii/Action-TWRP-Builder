@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/akifakif32/android_device_infinix_Infinix-X6833B/'
+        default: 'https://github.com/akifakif32/android_device_infinix_Infinix_X6833B/'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
@@ -32,11 +32,11 @@ on:
       DEVICE_NAME:
         description: 'DEVICE_NAME'
         required: true
-        default: 'twrp_Infinix-X6833B'
+        default: 'Infinix_X6833B'
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'twrp_Infinix-X6833B'
+        default: 'twrp_Infinix_X6833B'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
