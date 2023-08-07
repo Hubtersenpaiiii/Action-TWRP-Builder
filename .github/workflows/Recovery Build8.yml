@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/akifakif32/android_device_infinix_Infinix-X6833B'
+        default: 'https://github.com/akifakif32/android_device_infinix_Infinix_X6833B'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
