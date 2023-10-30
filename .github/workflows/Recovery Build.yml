@@ -14,7 +14,7 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/akifakif32/android_device_infinix_X6710'
+        default: 'https://github.com/Hubtersenpaiiii/TWRP-DEVICE-TREE-X6710'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
